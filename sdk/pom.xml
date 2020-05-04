@@ -7,7 +7,7 @@
     <version>0.11.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <parent>
-        <groupId>com.hashicorp.nomad</groupId>
+        <groupId>pelle.com.hashicorp.nomad</groupId>
         <artifactId>nomad-sdk-parent</artifactId>
         <version>0.11.0-SNAPSHOT</version>
         <relativePath>..</relativePath>
